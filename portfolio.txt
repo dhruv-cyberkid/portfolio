@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Dhruv Singhal IIT Kharagpur</title>
+</head>
+<body style="background-color: rgb(97,147,189);text-align: center;color: white"id="home">
+	<div style="background-color: rgb(248,248,248);color: black;text-align: right;">
+		<h2> <button onclick="window.location.href='facebook.com';"style="background-color: black;color: white;">Home</button> <button onclick="window.location.href='aboutme.html';"style="background-color: black;color: white;">About Me</button><button onclick="window.location.href='facebook.com';"style="background-color: black;color: white;">Experience</button><button onclick="window.location.href='facebook.com';"style="background-color: black;color: white;">Contact Me</button><button onclick="window.location.href='facebook.com';"style="background-color: black;color: white;">Resume</button>
+		<br><br>
+	</div>
+	<br>
+	<img src="pic.jpg" width="500" height="500" border="5">
+	<p style="font-size: 35px;"><b>I am awfully greedy; I want everything from life. I want to be a man to have many friends and to have lonliness to work much, to travel and  enjoy myself to  be selfish and to be unselfish... You see, it is difficult to get all which I want. And then when I do not succeed I get mad.</b></p>
+</body>
+<body style="background-color: rgb(97,147,189);text-align: center;color: white"id="aboutme">
+	<div style="background-color: rgb(248,248,248);color: black;text-align: right;">
+		<h2> Resume  Contacts Achievements About Me  Home</h2>
+	</div>
+	<h1 style="font-size: 70px;">About Me</h1>
+	<p style="font-size: 40px;">My name is Dhruv Singhal I am first year Undergraduate students of department of chemistry IIT Kharagpur enrolled in its five year integrated course. I am a resident of LBS hall of residance. I belong to Shivpuri(M.P)</p>
+	<h3 style="font-size:50px; ">Educational Details</h3>
+	<ul style="list-style-type: circle;text-align: left;font-size: 40px">
+		<li>I complected 10th with 94% from ICSE board.</li>
+		<li>I am a Resonite.</li>
+		<li>I completed 12th with 93% from MP board.</li>
+		<li>I qualified JEE Advanced in 2018 and got admission in IIT Kharagpur.</li>
+	</ul>
+</body>
+<body style="background-color: rgb(97,147,189);text-align: center;color: white"id="contactus">
+	<div style="background-color: rgb(248,248,248);color: black;text-align: right;">
+		<h2> Resume  Contacts Achievements About Me  Home</h2>
+	</div>
+  <h1>Contacts</h1>
+<form action="/action_page.php"method="post">
+  <fieldset>
+    <legend>Personal information:</legend>
+  First name:<br>
+  <input type="text" name="Firstname" value=""><br>
+  Last name:<br>
+  <input type="text" name="lastname" value=""><br>
+  Email:<br>
+  <input type="email" name="email" value=""><br>
+  Contact Number:<br>
+  <input type="Number" name="lastname" value=""><br>
+   </fieldset>
+  </fieldset>
+  <fieldset>
+    <legend>Other information:</legend>
+  Query<br>
+  <input type="text" name="Query" value=""><br>
+ </fieldset><br>
+ <input type="submit" value="Submit">
+</form>
+<br>
+<pre style="text-align: center;"> <a href="https://www.facebook.com/dhruv.singhal.161"><img border="0" src="fb.jpg" width="100" height="100"></a>  <a href="https://www.instagram.com/dhruv.singhal.161/"><img border="0" src="insta.jpg" width="100" height="100"></a>  <a href="https://twitter.com/DhruvSi44391321"><img border="0" src="twitter.jpg" width="100" height="100"></a> </pre>
+<body style="background-color: rgb(97,147,189);text-align: center;color: white"id="Experience">
+	<div style="background-color: rgb(248,248,248);color: black;text-align: right;">
+		<h2> Resume  Contacts Achievements About Me  Home</h2>
+	</div>
+	<h1 style="font-size: 50px;">Experience</h1>
+	<ul style="list-style-type: circle;">
+		<li style="font-size: 35px;text-align: left;">Senior Executive Member Gopali Youth Welfare Society.</li>
+		<li style="font-size: 35px;text-align: left;">GES Intern Entrepreneurship Cell IIT Kharagpur.</li>
+	</ul>
+    <h1 style="color: red;"><b>Working Hard To Achieve something Big !!</b></h1>
+</body>
+</html>

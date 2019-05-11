@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Dhruv Singhal IIT Kharagpur</title>
+</head>
+<body style="background-color: rgb(97,147,189);text-align: center;color: white"id="home">
+	<div style="background-color: rgb(248,248,248);color: black;text-align: right;">
+		<h2> <button onclick="window.location.href='indexz.html';"style="background-color: black;color: white;">Home</button> <button onclick="window.location.href='aboutme.html';"style="background-color: black;color: white;">About Me</button><button onclick="window.location.href='experience.html';"style="background-color: black;color: white;">Experience</button><button onclick="window.location.href='contactus.html';"style="background-color: black;color: white;">Contact Me</button>
+		<br><br>
+	</div>
+	<br>
+	<img src="pic.jpg" width="500" height="500" border="5">
+	<p style="font-size: 35px;"><b>I am awfully greedy; I want everything from life. I want to be a man to have many friends and to have lonliness to work much, to travel and  enjoy myself to  be selfish and to be unselfish... You see, it is difficult to get all which I want. And then when I do not succeed I get mad.</b></p>
+</body>
+</html>
